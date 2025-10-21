@@ -33,3 +33,18 @@ Contiene una especificación de paquetes, información del proyecto y el conjunt
 # Diferencias entre macro y función
 
 El simbolo **!** significa que es una macro, por ejemplo `println!()` y `print!()`
+
+
+
+# Otra forma de compilar
+
+# Compilar con rustc
+
+> rustc "nombre_archivo.rs"
+
+> [!NOTE]
+> Esto generará un archivo binario que podremos ejecutar.
+
+# Ejecutar
+
+> ./nombre_archivo
